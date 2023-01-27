@@ -1,0 +1,7 @@
+cd E:\OneDrive - The Hong Kong Polytechnic University\Python\Project 1\Interface
+
+E:
+
+pyuic5 -o Dialog_InputTrade.py Dialog_InputTrade.ui
+
+pyuic5 -o ..\..\Interface\Dialog_InputTrade.py ..\..\Interface\Dialog_InputTrade.ui
